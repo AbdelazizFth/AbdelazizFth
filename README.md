@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Abdelaziz FATHALLAH
-- 👀 I’m interested in software and mobile development
-- 🌱 I’m currently learning Angular, Java7, JavaScript
+- 👀 I’m interested in software development
+- 🌱 I’m currently learning C#.net, ASP.net MVC
 - 💞️ I am looking to collaborate on the development in .NET and .Net Core 
 - 📫 You can reach me on :
                           Email : azizfathallah50@gmail.com
